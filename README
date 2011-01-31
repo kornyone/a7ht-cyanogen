@@ -1,7 +1,7 @@
 To initialize your local repository using the trees,
 use a command like this:
 
-repo init -u git://github.com/kornyone/a7ht_repo.git
+repo init -u git://github.com/kornyone/a7ht-cyanogen.git
 
 Then to sync up:
 
