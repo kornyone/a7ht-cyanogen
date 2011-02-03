@@ -147,7 +147,7 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="cyanogen" />
   <project path="external/alsa-utils" name="kornyone/android_external_alsa-utils" remote="github" />
   <project path="external/alsa-lib" name="kornyone/android_external_alsa-lib" remote="github" />
-  <project path="frameworks/base" name="kornyone/android_frameworks_base" remote="github" />
+  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" remote="cyanogen" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
